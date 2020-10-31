@@ -1,0 +1,9 @@
+
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ø¾³È8÷Ãœ€Ö.
+J
+java:S1604;"(Make this anonymous inner class a lambda(ÌË¾Èûÿÿÿÿ8÷Ãœ€Ö.
+E
+java:S1604("(Make this anonymous inner class a lambda(«ˆÿÓ8€í¨‚Ö.
+m
+java:S1301-"KReplace this "switch" statement by "if" statements to increase readability.(éî¬èùÿÿÿÿ8¶Œº‚Ö.
+C	java:S131-""Add a default case to this switch.(éî¬èùÿÿÿÿ8¶Œº‚Ö.
